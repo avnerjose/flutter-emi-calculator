@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/app.png" width="50%"/> 
+  <img src="assets/app.png" width="30%"/> 
 </h1>
 <h1 align="center" width="50%">
   <img alt="Flutter" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
@@ -25,7 +25,7 @@
 1. Clone this repository: 
 
 ```bash
-git clone https://github.com/avnerjose/reactjs-nextjs-beautysalon.git && cd reactjs-nextjs-beautysalon
+git clone https://github.com/avnerjose/flutter-emi-calculator.git && cd flutter-emi-calculator
 ```
 2. Start your AVD
 
